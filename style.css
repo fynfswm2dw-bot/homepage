@@ -1,0 +1,13 @@
+body {background-color:#FFFCF1;}
+h2{color:#D9667B}
+hr{border:3px solid darkgreen;}
+span{color:darkgreen}
+td, th {
+    text-align: left;
+    padding: 8px;}
+
+td:first-child, th:first-child {
+    width: 30%;   /* 항목 칸 */}
+
+td:last-child, th:last-child {
+    width: 70%;   /* 내용 칸 */}
